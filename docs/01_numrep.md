@@ -19,9 +19,7 @@ left.
 
 for example:
 
-$$
-  (1234)_{10} = 1 \times 10^3 + 2 \times 10^2 + 3 \times 10^1 + 4 \times 10^0
-$$
+$$(1234)_{10} = 1 \times 10^3 + 2 \times 10^2 + 3 \times 10^1 + 4 \times 10^0$$
 
 to indicate the base system for a number, we usually put the number in
 parenthesis, and the base system in subscript, as shown above.
