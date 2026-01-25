@@ -5,3 +5,4 @@ course.
 
 1. [numerical representation](./01_numrep)
 2. [signed integers and operations](./02_signednum)
+3. [machine language and assembly instructions](./03_risc)
